@@ -1,0 +1,8 @@
+C:\Users\moham\Desktop\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\bin\Debug\TRuongDinhHai_Buoi3.exe.config
+C:\Users\moham\Desktop\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\bin\Debug\TRuongDinhHai_Buoi3.exe
+C:\Users\moham\Desktop\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\bin\Debug\TRuongDinhHai_Buoi3.pdb
+C:\Users\moham\Desktop\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\TRuongDinhHai_Buoi3.Properties.Resources.resources
+C:\Users\moham\Desktop\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\MohamachAnsary-b3.csproj.GenerateResource.Cache
+C:\Users\moham\Desktop\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\TRuongDinhHai_Buoi3.exe
+C:\Users\moham\Desktop\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\TRuongDinhHai_Buoi3.pdb
+C:\Users\moham\Desktop\TRuongDinhHai_Buoi3\TRuongDinhHai_Buoi3\obj\Debug\MohamachAnsary_b3.Form1.resources
